@@ -20,3 +20,5 @@
 9. Then you will find index.html file. 
 This is the only file you require for the project to run. 
 Just cut it and paste the code snippit in the place where you want it ot run.
+
+You  can also change the district in the code (along with the state) to get the data of desired state.
